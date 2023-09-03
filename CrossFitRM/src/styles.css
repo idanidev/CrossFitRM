@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/primeng.min.css";
+@import "primeflex/primeflex.css";
+@import "primeicons/primeicons.css";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
